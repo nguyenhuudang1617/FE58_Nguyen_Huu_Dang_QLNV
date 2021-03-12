@@ -1,0 +1,25 @@
+.form-input{
+    border: 1px solid rgb(214, 208, 208);
+    border-radius: 5px;
+}
+h3{
+    background-color: black;
+    width: 100%;
+    color: white;
+    padding: 10px;
+    
+}
+.form-group{
+    padding: 0 20px;
+}
+#btnXacNhan{
+    float: right;
+
+}
+
+thead tr td{
+    background-color: blue;
+    color:  white;
+    font-weight: 500;
+}
+
